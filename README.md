@@ -1,7 +1,5 @@
 # Descifrar contraseñas de Chrome
-Un programa simple para descifrar la contraseña de Chrome guardada en su máquina. <br>
-Este código solo se ha probado en Windows, por lo que es posible que no funcione en otros sistemas operativos.<br>
-Si tienes una idea para mejorar, ¡házmelo saber!<br>
+Un programa simple para descifrar la contraseña de Chrome guardada en su ordenador. <br>
 
 ## Sistema operativo compatible
 1. Windows
