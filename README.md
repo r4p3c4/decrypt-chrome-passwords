@@ -4,6 +4,10 @@ Un programa simple para descifrar la contraseña de Chrome guardada en su ordena
 ## Sistema operativo compatible
 1. Windows
 
+## Versión de python utilizada
+
+[![Python Version](https://img.shields.io/badge/python-3.11+-green)](https://www.python.org)
+
 ## Dependencias
 
 1. pycryptodomex
@@ -15,10 +19,6 @@ https://www.youtube.com/watch?v=Hjkvv3LiP4g
 
 ## Resultado
 Guardado como decrypted_password.csv
-
-## Versión de python utilizada
-
-[![Python Version](https://img.shields.io/badge/python-3.11+-green)](https://www.python.org)
 
 ## Telegram
 
