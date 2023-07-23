@@ -1,6 +1,9 @@
 # Descifrar contraseñas de Chrome
 Un programa simple para descifrar la contraseña de Chrome guardada en su ordenador. <br>
 
+## Linkedin
+<a href="https://www.linkedin.com/in/rafael-peiro-calvet/"><img src="https://i.postimg.cc/8zsFGvXV/logo.jpg"></a>
+
 ## Sistema operativo compatible
 1. Windows
 
@@ -24,6 +27,5 @@ Guardado como decrypted_password.csv
 
 <a href='https://t.me/NoticiasCiberseguridadyCryptos' target='_blank'><img src='https://i.postimg.cc/HJ54gYft/telegram.png' border='0' alt='telegram'/></a>
 
-## Linkedin
-<a href="https://www.linkedin.com/in/rafael-peiro-calvet/"><img src="https://i.postimg.cc/8zsFGvXV/logo.jpg"></a>
+
 
