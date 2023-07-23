@@ -9,6 +9,13 @@ Un programa simple para descifrar la contraseña de Chrome guardada en su ordena
 1. pycryptodomex
 2. pywin32
 
+## Instalación y dependencias del programa para Windows
+
+https://www.youtube.com/watch?v=Hjkvv3LiP4g
+
+## Resultado
+Guardado como decrypted_password.csv
+
 ## Versión de python utilizada
 
 [![Python Version](https://img.shields.io/badge/python-3.11+-green)](https://www.python.org)
@@ -20,9 +27,3 @@ Un programa simple para descifrar la contraseña de Chrome guardada en su ordena
 ## Linkedin
 <a href="https://www.linkedin.com/in/rafael-peiro-calvet/"><img src="https://i.postimg.cc/8zsFGvXV/logo.jpg"></a>
 
-## Instalación y dependencias del programa para Windows
-
-https://www.youtube.com/watch?v=Hjkvv3LiP4g
-
-## Resultado
-Guardado como decrypted_password.csv
