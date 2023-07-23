@@ -1,18 +1,18 @@
-# Decrypt Chrome Passwords
-A simple program to decrypt chrome password saved on your machine. <br>
-This code has only been tested on windows, so it may not work on other OS.<br>
-If you have an idea for improvement, do let me know!<br>
+# Descifrar contraseñas de Chrome
+Un programa simple para descifrar la contraseña de Chrome guardada en su máquina. <br>
+Este código solo se ha probado en Windows, por lo que es posible que no funcione en otros sistemas operativos.<br>
+Si tienes una idea para mejorar, ¡házmelo saber!<br>
 
-## OS support
+## Sistema operativo compatible
 1. Windows
 
-## Dependencies (see requirements)
+## Dependencias (ver requisitos)
 
 1. pycryptodomex
 2. pywin32
 
-## Usage
+## Uso
 python decrypt_chrome_password.py<br>
 
-## Output
-Saved as decrypted_password.csv
+## Producción
+Guardado como decrypted_password.csv
