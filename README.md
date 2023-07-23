@@ -4,10 +4,14 @@ Un programa simple para descifrar la contraseña de Chrome guardada en su ordena
 ## Sistema operativo compatible
 1. Windows
 
-## Dependencias (ver requisitos)
+## Dependencias
 
 1. pycryptodomex
 2. pywin32
 
-## Producción
+## Instalación y dependencias del programa para Windows
+
+https://www.youtube.com/watch?v=Hjkvv3LiP4g
+
+## Resultado
 Guardado como decrypted_password.csv
